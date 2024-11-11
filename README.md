@@ -1,4 +1,4 @@
-https://artemkuvik.github.io/website-js-css-html/shelter/index-pets.html
+https://artemkuvik.github.io/website-js-css-html/shelter/index.html
 
 Функционал:   
 Реализация burger menu на обеих страницах:  
